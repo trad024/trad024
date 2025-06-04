@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moataz Ben Trad</h1>
+<h1 align="center">Hi 👋, 
+I'm Moataz Ben Trad</h1>
 <h3 align="center">AI enthusiast continuously growing in Machine Learning, Deep Learning, and new AI tools. Always open to innovative collaborations.</h3>
 
 <br>
