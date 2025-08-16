@@ -14,10 +14,6 @@ I'm Moataz Ben Trad</h1>
 <p align="left">
   <a href="https://linkedin.com/in/moataz-ben-trad-a39235194/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moataz Ben Trad LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/motaz.trad.7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Moataz Ben Trad Facebook" height="30" width="40" />
-  </a>
 </p>
 
 <br>
